@@ -14,6 +14,16 @@ The table below displays the average yield and cultivation area for different cr
 
 ![Average Yield and Cultivation Area](public/images/table2.jpg)
 
+## Technologies Used
+
+React
+
+Mantine
+
+JavaScript
+
+CSS
+
 ## How to Run
 
 yarn install
